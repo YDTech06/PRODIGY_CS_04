@@ -254,6 +254,8 @@ class KeyLoggerApp(QMainWindow):
         else:
             event.ignore()
 
+
+
 # MAIN EXECUTION
 # MAIN BLOCK
 if __name__ == '__main__':
