@@ -12,7 +12,6 @@ from pynput import keyboard
 class KeyLoggerApp(QMainWindow):
     # INITIALIZATION
     def __init__(self):
-        
         # Initialize the KeyLogger application.
         super().__init__()
         self.initUI()
