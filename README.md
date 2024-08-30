@@ -26,7 +26,7 @@ The Keylogger Tool is a Python application developed with PyQt5 that records key
    pip install PyQt5 pynput
 3. **Run the Script**: Execute the script using Python:
    ```bash
-   python keylogger_tool.py
+   python key_logger_tool.py
 
 ## How To Use
 
