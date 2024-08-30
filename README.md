@@ -1,11 +1,11 @@
 # Prodigy-Infotech-CS-Tasks
-# Keylogger Tool
+# KeyLogger Tool
 
 If you find this tool useful, don't forget to give it a star! ⭐
 
 ## Overview
 
-The Keylogger Tool is a Python application developed with PyQt5 that records keystrokes and saves them to a file. It provides a graphical interface to manage logging sessions, view logged keys, and save or clear logs. This tool is useful for monitoring and analyzing keyboard inputs.
+The KeyLogger Tool is a Python application developed with PyQt5 that records keystrokes and saves them to a file. It provides a graphical interface to manage logging sessions, view logged keys, and save or clear logs. This tool is useful for monitoring and analyzing keyboard inputs.
 
 ## Features
 
